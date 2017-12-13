@@ -13,3 +13,28 @@
     <img src="./src/don't compromise 4.jpg" width="19%">
     <img src="./src/don't compromise 5.jpg" width="19%">
 </div>
+
+<div>
+    <img src="./src/don't compromise 1.jpg" width="19%">
+    <img src="./src/don't compromise 2.jpg" width="19%">
+    <img src="./src/don't compromise 3.jpg" width="19%">
+    <img src="./src/don't compromise 4.jpg" width="19%">
+    <img src="./src/don't compromise 5.jpg" width="19%">
+</div>
+
+<div>
+    <img src="./src/Experiment fail learn repeat 1.jpg" width="19%">
+    <img src="./src/Experiment fail learn repeat 2.jpg" width="19%">
+    <img src="./src/Experiment fail learn repeat 3.jpg" width="19%">
+    <img src="./src/Experiment fail learn repeat 4.jpg" width="19%">
+    <img src="./src/Experiment fail learn repeat 5.jpg" width="19%">
+    <img src="./src/Experiment fail learn repeat 6.jpg" width="19%">
+</div>
+
+<div>
+    <img src="./src/Get shit done 1.jpg" width="19%">
+    <img src="./src/Get shit done 2.jpg" width="19%">
+    <img src="./src/Get shit done 3.jpg" width="19%">
+    <img src="./src/Get shit done 4.jpg" width="19%">
+    <img src="./src/Get shit done 5.jpg" width="19%">
+</div>
